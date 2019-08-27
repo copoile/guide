@@ -10,3 +10,4 @@
 - [33-js-concepts,JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 - [vue-element-admin,一个vue全家桶+element-ui的后台前端解决方案](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
 - [vue-awesome-swiper,vue轮播图解决方案](https://github.com/surmon-china/vue-awesome-swiper)
+- [awesome-github-wechat-weapp,微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
