@@ -5,6 +5,7 @@
 ### 目录
 - [advanced-java,互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
 - [miaosha,互联网java秒杀系统的设计与架构](https://github.com/qiurunze123/miaosha)
+- [springboot-demo聚集地](https://github.com/xkcoding/spring-boot-demo)
 - [JavaGuide,一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 - [CS-Notes,Tech Interview Guide 技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
 - [33-js-concepts,JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts)
