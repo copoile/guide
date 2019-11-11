@@ -19,6 +19,7 @@
 - [awesome-github-wechat-weapp,微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)
 - [程序员女装大佬聚集地，露出诡异的笑容并且逐渐.....](https://github.com/komeiji-satori/Dress)
 - [正则学习](https://github.com/ziishaned/learn-regex)
+- [收集各种类别非常好用的 Mac 应用程序](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 
 ### 结语
 本项目收藏会持续添加收藏，如若有好的开源项目欢迎Issues，谢谢！
