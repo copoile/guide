@@ -21,6 +21,7 @@
 - [正则学习](https://github.com/ziishaned/learn-regex)
 - [收集各种类别非常好用的 Mac 应用程序](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
 - [程序员应该有的一些好习惯！](https://github.com/Snailclimb/programmer-advancement)
+- [java编程思想中文版](https://github.com/LingCoder/OnJava8)
 
 ### 结语
 本项目收藏会持续添加收藏，如若有好的开源项目欢迎Issues，谢谢！
